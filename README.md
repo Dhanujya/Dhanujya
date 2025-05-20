@@ -27,7 +27,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, SQL  
-- **Tools & Platforms:** Git, Postman, Spring Tools, SQL Workbench  
+- **Tools & Platforms:** Git, Postman, SQL Workbench  
 
 ---
 
